@@ -4,7 +4,8 @@
   "description": "익스프레스 프로젝트 시작하기",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app"
+    "start": "nodemon app",
+    "test": "node --test"
   },
   "author": "memilmuk82",
   "license": "MIT",
